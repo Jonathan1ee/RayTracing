@@ -9,14 +9,14 @@ Modify the color (RGB values) of all spheres simultaneously
 Real-time updates as you adjust sphere properties
 Simple diffuse shading for better depth perception
 
-Usage
+Usage:
 
 Use the radio buttons to select which sphere you want to manipulate.
 Adjust the X, Y, and Z sliders to change the position of the selected sphere.
 Use the Red, Green, and Blue sliders to modify the color of all spheres.
 The render updates in real-time as you make changes.
 
-Implementation Details
+Implementation Details:
 
 The application uses a basic ray tracing algorithm to render the spheres.
 Diffuse shading is implemented for better visual quality.
